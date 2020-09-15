@@ -1,5 +1,3 @@
 User-agent: *
 
-Disallow: /norobots/
-
-Sitemap: protocol://domain/sitemap.xml
+Disallow: /
