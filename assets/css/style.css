@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "FiraCode";
+  src: url("../fonts/FiraCode-VariableFont_wght.ttf");
+}
+
+.typeText{
+    font-size: 20px;
+        color: #FFFFFF;
+  font-family: "FiraCode", Courier, monospace;
+}
+
+.typeCursor{
+    font-size: 20px;
+        color: #FFFFFF;
+  font-family: "FiraCode", Courier, monospace;
+}
+
+.shell-user{
+    font-size: 20px;
+	color: blue;
+  font-weight: bold;
+  font-family: "FiraCode", Courier, monospace;
+}
+
+.shell-blue{
+    font-size: 20px;
+	color: #1EFF90;
+  font-family: "FiraCode", Courier, monospace;
+}
+
+.shell-white{
+    font-size: 20px;
+        color: #FFFFFF;
+  font-family: "FiraCode", Courier, monospace;
+}
