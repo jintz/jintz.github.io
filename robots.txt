@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: protocol://domain/sitemap.xml
+Sitemap: https://jintz.github.io/sitemap.xml
